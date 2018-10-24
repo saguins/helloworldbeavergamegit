@@ -1,0 +1,29 @@
+
+HelloWorld #Beaver
+Today is about Git!
+
+Lemme check who is in class today.
+Pea :
+Nile :
+Lara :
+
+So, how about เด็กๆของเรา!
+
+Team 1
+โอ๊ต
+ตอง
+วิศ
+ข้าวปุ้น
+มิ้นท์
+
+Team 2
+เชียร์
+กันต์
+เกรซ
+แป้ง
+
+Team 3
+ปอ
+มาร์ค
+ซัน
+สตางค์
